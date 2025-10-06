@@ -6,9 +6,11 @@ Conceitos básicos e exemplos
   - Possuem as características e comportamentos definidos na classe e podem ser usados.
   - 
 Herança
+
 É a capacidade de uma classe filha derivar ou herdar características de uma classe pai ou base.
 - Simples
 - Múltipla
+
 Benefícios
 - Reutilização de Códigos
 - É de natureza transitiva
